@@ -24,7 +24,7 @@ npx serve .
 ```
 
 Using VS Code:
-- Install the **Live Server** extension and click *Go Live* in the status bar.
+- Install the [**Live Server** extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) (`ritwickdey.LiveServer`) and click *Go Live* in the status bar.
 
 ## Learning Path
 
